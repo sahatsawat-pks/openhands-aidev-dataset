@@ -16,6 +16,7 @@ Key scripts
 -----------
 - `Script/RQ1/rq1_commit_size_comparison.py` — RQ1 Commit Size analyses 
 - `Script/RQ1/rq1_repo_level_comparison.py` — RQ1 Repository-Level analyses 
+- `Script/RQ1/rq1_contributor_patterns.py` - Contributor pattern between each repository
 - `Script/RQ2/rq2_temporal_analysis.py` — temporal analysis for RQ2.
 - `Script/RQ3/rq3_time_to_merge_analysis.py` - merge rate and time-to-merge for RQ3.
 
