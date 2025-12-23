@@ -1,0 +1,6 @@
+repo_id,repo_name,total_prs,total_commits,avg_commits_per_pr,total_additions,avg_additions_per_pr,total_deletions,avg_deletions_per_pr,total_changed_files,avg_changed_files_per_pr,example_pr_url
+985853139.0,mochilang/mochi,8913,8989,1.01,7182790.0,805.9,1733652.0,194.5,156571.0,17.6,https://github.com/mochilang/mochi/pull/13446
+1021905497.0,dvaitam/codeforces,3740,3753,1.0,1480512.0,395.9,6394.0,1.7,14895.0,4.0,https://github.com/dvaitam/codeforces/pull/3064
+922805069.0,MontrealAI/AGI-Alpha-Agent-v0,3569,3674,1.03,227744.0,63.8,86166.0,24.1,11539.0,3.2,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/pull/2560
+975733848.0,print3git/MVP-website,2757,3154,1.14,342379.0,124.2,204299.0,74.1,7173.0,2.6,https://github.com/print3git/MVP-website/pull/1322
+994985630.0,TonPlaygramBot/TonPlaygramWebApp,2092,2212,1.06,87378.0,41.8,50876.0,24.3,5483.0,2.6,https://github.com/TonPlaygramBot/TonPlaygramWebApp/pull/2210
