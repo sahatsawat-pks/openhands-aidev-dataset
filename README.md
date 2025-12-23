@@ -14,7 +14,6 @@ Repository layout
 
 Key scripts
 -----------
-- `Script/RQ3/fetch_aidev_merge_stats.py` — fetches project-level merge/PR counts from the GitHub Search API and writes results to `analysis_outputs/project_comparison/` (requires `GITHUB_TOKEN`).
 - `Script/RQ1/rq1_full_analysis.py` — RQ1 analyses and helpers (requires pandas and other analysis packages).
 - `Script/RQ2/rq2_temporal_analysis.py` — temporal analysis for RQ2.
 - `Script/RQ1/feature_extraction.py`, `Script/RQ1/visualization_dashboard.py`, etc. — additional helpers.
