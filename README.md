@@ -54,19 +54,20 @@ Example: run the GitHub fetch script (set your token to avoid strict rate limits
 
 ```bash
 export GITHUB_TOKEN="ghp_..."   # set your token securely
-python Script/RQ3/fetch_aidev_merge_stats.py
+python Script/RQ1/rq1_contributor_patterns.py
 ```
 
 Other scripts can be run similarly, e.g.:
 
 ```bash
-python Script/RQ1/rq1_full_analysis.py
+python Script/RQ1/rq1_commit_size_comparison.py
+python Script/RQ1/rq1_repo_level_comparison.py
 python Script/RQ2/rq2_temporal_analysis.py
+python Script/RQ3/rq3_time_to_merge_analysis.py
 ```
 
 Notes
 -----
-- `Script/RQ3/fetch_aidev_merge_stats.py` now uses repo-relative paths and will create `analysis_outputs/project_comparison/` before writing output.
 - Some CSV files may contain incidental `/Users/...` strings as data/content; those are not used as script configuration.
 
 Contributing / Next steps

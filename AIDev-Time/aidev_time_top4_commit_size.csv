@@ -1,0 +1,5 @@
+repo_id,repo_name,total_prs,total_commits,avg_commits_per_pr,total_additions,avg_additions_per_pr,total_deletions,avg_deletions_per_pr,total_changed_files,avg_changed_files_per_pr,example_pr_url
+922805069.0,MontrealAI/AGI-Alpha-Agent-v0,1874,1979,1.06,114917.0,61.3,36898.0,19.7,5526.0,2.9,https://github.com/MontrealAI/AGI-Alpha-Agent-v0/pull/4
+839640906.0,KristopherKubicki/glimpser,1775,2154,1.21,91654.0,51.6,39532.0,22.3,5721.0,3.2,https://github.com/KristopherKubicki/glimpser/pull/249
+982394988.0,alfe-ai/alfe-ai,1348,1379,1.02,48905.0,36.3,18206.0,13.5,2908.0,2.2,https://github.com/alfe-ai/alfe-ai/pull/6
+979695673.0,doublemover/LemmingsJS-MIDI,852,3542,4.16,142287.0,167.0,68768.0,80.7,4643.0,5.4,https://github.com/doublemover/LemmingsJS-MIDI/pull/9
